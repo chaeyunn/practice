@@ -11,4 +11,11 @@ This practice was referenced by famous Korean ROR book '초레가'
 $ rails new rcafe
 ```
 
-2. 
+2. 실행해서 확인해 보기 
+c9에서 실행해 보려면 추가 인수가 필요하다.
+```bash
+$ cd rcafe
+$ bin/rails -p $PORT -b $IP 
+```
+
+3. Gemfile 편집
