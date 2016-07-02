@@ -1,2 +1,2 @@
 #!/bin/bash
-bin/rails server -p $PORT -b $IP & 
+bin/rails server -p $PORT -b $IP 
